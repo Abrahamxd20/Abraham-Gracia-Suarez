@@ -41,7 +41,7 @@
 
 ### 📄 Visualiza mi CV
 <p align="center">
-  <a href="https://drive.google.com/drive/u/0/home" target="_blank" rel="noopener">
+  <a href="https://drive.google.com/drive/u/1/home" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/📄%20Visualiza%20mi%20CV-0A192F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Visualiza mi CV">
   </a>
 </p>
