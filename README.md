@@ -1,8 +1,9 @@
-# 👋 ¡Hola! Soy Abraham García Suárez
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=150&section=header&text=Abraham%20García%20Suárez&fontColor=00CFFF&fontSize=30&animation=fadeIn&desc=Ingeniería%20de%20Sistemas%20|%20Ciberseguridad%20|%20Desarrollo&descAlignY=70&descAlign=50" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=header" width="100%" alt="Banner" />
 </p>
+
+# 👋 ¡Hola! Soy Abraham García Suárez
+### 🛡️ Ingeniería de Sistemas | Ciberseguridad | Desarrollo
 
 ---
 
@@ -27,7 +28,7 @@ Estudiante de **Ingeniería de Sistemas** en la Universidad César Vallejo. Me a
 ### 📊 Actividad en GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrahamxd20&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" height="150" alt="Stats de GitHub" />
+  <img src="https://github-readme-stats.azurewebsites.net/api?username=abrahamxd20&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" height="150" alt="Stats de GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrahamxd20&theme=tokyonight&hide_border=true&border_radius=8" height="150" alt="Racha de GitHub" />
 </p>
 
